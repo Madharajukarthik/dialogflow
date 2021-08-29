@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap");
+* {
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  margin-top: 2%;
+}
+.intent {
+  padding: 20px;
+  margin: 4px;
+  border-radius: 4px;
+  background-color: bisque;
+  color: darkgrey;
+}
+.color {
+  color: black;
+}
